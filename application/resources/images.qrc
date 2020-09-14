@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>destination/accesories.jpg</file>
+        <file>destination/caffe.jpeg</file>
+        <file>destination/clothes.jpg</file>
+        <file>destination/restaurant.jpg</file>
+        <file>destination/toilet.jpeg</file>
+        <file>shops/adidas.jpeg</file>
+        <file>shops/chanel.jpg</file>
+        <file>shops/dior.jpeg</file>
+        <file>shops/friday.jpeg</file>
+        <file>shops/mcdonalds.jpg</file>
+        <file>shops/nike.jpg</file>
+        <file>shops/starbucks.jpg</file>
+        <file>shops/toilet.jpeg</file>
+        <file>shops/twosome.jpg</file>
+        <file>maps/coex.jpg</file>
+        <file>maps/map.pgm</file>
+        <file>Icon/reload_Icon.png</file>
+        <file>Icon/pause_Icon.png</file>
+        <file>Icon/currentLoc_Icon.png</file>
+        <file>Icon/Icon_reload.png</file>
+        <file>Icon/Icon_pause.png</file>
+        <file>Icon/Icon_currentLoc.png</file>
+    </qresource>
+</RCC>
